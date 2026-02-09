@@ -1,0 +1,14 @@
+{
+    "name": "etma/www",
+    "autoload": {
+        "psr-4": {
+            "Etma\\Www\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eriston Matos"
+        }
+    ],
+    "require": {}
+}
